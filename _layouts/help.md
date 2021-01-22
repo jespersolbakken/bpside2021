@@ -1,3 +1,6 @@
+---
+layout: help
+---
 <link href="stylesheet.css" rel="stylesheet">
 
 ## Dokumenter
