@@ -1,5 +1,13 @@
 # Gruppemedlemmer
 
+Robin Svanor
+Anvendt Datateknologi
+
+Victor Skaar
+Anvendt Datateknologi
+
+Jesper Solbakken
+Anvendt Datateknologi
 
 # Prosjektrapporter
 
