@@ -1,4 +1,4 @@
-## Bachelorprosjekt 2021 - Gruppe 19
+# Gruppemedlemmer
 
 [Statusrapport](https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Statusrapport.pdf)
 
