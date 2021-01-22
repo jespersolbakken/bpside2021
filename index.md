@@ -12,7 +12,7 @@
 
 <a href="#your-url-path"
 onMouseOver="{ transform: scale(1.0); }"
-onMouseOut="{ transform: scale(1.5); }">Click here to Subscribe</a>
+onMouseOut="{ transform: scale(1.5); }"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a>
 
 <br><br><br><br><br>
 
