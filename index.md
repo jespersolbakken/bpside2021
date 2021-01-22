@@ -2,15 +2,15 @@
 
 Robin Svanor - Anvendt Datateknologi
 
-![bilde av Robin](https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/robin.jpg =250px)
+<img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/robin.jpg" width="250">
 
 Victor Skaar - Anvendt Datateknologi
 
-![bilde av Victor](https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/victor.jpg)
+<img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/victor.jpg" width="250">
 
 Jesper Solbakken - Anvendt Datateknologi
 
-![bilde av Jesper](https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/jesper.jpg =250px)
+<img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/jesper.jpg" width="250">
 
 
 
