@@ -16,4 +16,5 @@
 
 | Robin Svanor | Victor Skaar | Jesper Solbakken |
 | :---: | :---: | :---: |
+| Anvendt Datateknologi | Anvendt Datateknologi | Anvendt Datateknologi |
 | <img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/robin.png" height="300">  | <img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/victor.png" height="300">  | <img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/jesper.png" height="300"> |
