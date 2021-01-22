@@ -1,6 +1,6 @@
 <style>
 .zoom {
-  transition: transform .5s; /* Animation */
+  transition: transform .75s; /* Animation */
 }
 
 .zoom:hover {
