@@ -6,7 +6,7 @@
 
 | Statusrapport | Prosjektskisse | Forprosjekt |
 | :---: | :---: | :---: |
-| <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Statusrapport.pdf"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> | <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Prosjektskisse.pdf"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> | <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Statusrapport.pdf"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> |
+| <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Statusrapport.pdf" target="_blank"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> | <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Prosjektskisse.pdf" target="_blank"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> | <a href="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Filer/Forprosjekt.pdf" target="_blank"><img src="https://github.com/jespersolbakken/gruppe19bp2021/raw/gh-pages/Bilder/Logo/documents.png" height="150"></a> |
 
 
 
