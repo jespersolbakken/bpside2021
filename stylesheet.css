@@ -8,3 +8,10 @@
   transform: scale(1.2); /* (100% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 </style>
+
+.dokumentDiv {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
